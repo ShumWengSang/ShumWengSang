@@ -18,7 +18,7 @@ I ❤️ games! Developing or playing 😄
 
 🔭 I'm currently working on a Hololens 2 school project in Unity
 
-💻 **_Fresh Grad 2022 Game Developer_**
+💻 **Software Developer_**
 
 😄 Pronouns: He/Him
 
