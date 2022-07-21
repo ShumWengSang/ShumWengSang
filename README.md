@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I ❤️ games! Developing or playing 😄
 
-🔭 I'm currently working on a Hololens 2 school project in Unity
+🔭 I'm currently working on improving the DirectX 12!
 
 💻 **Software Developer_**
 
