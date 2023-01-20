@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I ❤️ games! Developing or playing 😄
 
-🔭 I'm currently working on improving the DirectX 12!
+🔭 I'm currently working on the DirectX 12 runtime
 
 💻 **Software Developer_**
 
